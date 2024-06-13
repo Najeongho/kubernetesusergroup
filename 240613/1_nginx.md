@@ -77,6 +77,11 @@
 * 특정 Gateway에 종속되지 않음
 * Nginx Gateway Fabric은 1.3.0이 나옴
 
+(8) 참고 Github
+* github.com/f5minions/nginx-gateway-fabric
+
+
+
 
 
   
